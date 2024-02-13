@@ -34,7 +34,3 @@ Give it a star :tada:
 --------------
 Did you find this information useful, then give it a star 
 
-
-Credits
------------
-All the credits to [kalebu](github.com/kalebu)
