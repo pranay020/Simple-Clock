@@ -25,11 +25,6 @@ Once you run the code, it will render the output similar to what shown below;
 
 
 
-This code is the continuation of a series of Python tutorial published 
-on [my blog](kalebujordan.com), and the full article with code for can 
-be found on [Make a Digital Clock](https://kalebujordan.com/how-to-make-a-digital-clock-in-python/)
-
-
 Give it a star :tada:
 --------------
 Did you find this information useful, then give it a star 
